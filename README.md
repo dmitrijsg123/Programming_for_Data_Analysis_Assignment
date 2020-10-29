@@ -8,3 +8,6 @@ The assignment answers the following questions:
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
+References:
+https://stackoverflow.com/questions/47231852/np-random-rand-vs-np-random-random
+
