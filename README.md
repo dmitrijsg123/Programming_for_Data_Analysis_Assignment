@@ -15,11 +15,17 @@ NumPy is a library for the Python programming language, adding support for large
 Numpy.random subpackage has the ability to generate randomness of data, shuffle existing data and draw samples based on a specified distribution.
 
 2.1. Simple Random Data
-Random.random() function
+
+Random.random() 
+
 Random.rand() function
-Random.randn() function
-Random.randint() function
+
+Random.randn() 
+
+Random.randint() 
+
 Random.sample() function
+
 Random.choice() function
 
 2.2 Permutations
@@ -27,10 +33,16 @@ Random.choice() function
   2. Permutations function
 
 3. Distributions.
+
   Uniform distribution
+  
   Normal distribution
+  
   Binomial distribution
+  
   Gamma distribution
+  
+  
   Logistic distribution
   
 4. Seeds
@@ -40,9 +52,11 @@ Different ways of generating a seed in pseudo-random numbers.
 PCG64 generator, its advantages over Mersenne Twister generator.
 
 References:
-https://mathworld.wolfram.com/UniformDistribution.html
+
 https://stackoverflow.com/questions/47231852/np-random-rand-vs-np-random-random
+
 https://www.statisticshowto.com/probability-and-statistics/binomial-theorem/binomial-distribution-formula/#whatis
+
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.logistic.html#numpy.random.Generator.logistic
 
 
